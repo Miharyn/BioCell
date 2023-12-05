@@ -24,15 +24,14 @@
 .ajax {
 	color: white;
 	text-align: justify;
-	width: 450px;
+	width: 500px;
 	height: auto;
 	padding-top: 15px;
 }
 
 .japax {
-	width: 450px;
-	height: 300px;
-	background-color: yellow;
+	width: 600px;
+	height: auto;
 	border-radius: 20px;
 	margin-right: auto;
 	margin-left: auto;
@@ -133,7 +132,7 @@ body{
 }
 .bavnar{
 	color: white;
-	font-size: 8px;
+	font-size: 14px;
 	font-weight: bold;
 }
 
@@ -149,6 +148,50 @@ body{
 	font-size: 30px;
 }
 
+.acab {
+	width:auto;
+}
+.cap {
+	justify-content:center;
+}
+}
+
+@media (max-width: 996px) {
+  .a p1 {
+	color: #2d6974;
+	font-weight: bold;
+	font-size: 25px;
+}
+.a p {
+	color: #68b39f;
+	font-weight: 700px;
+	font-size: 40px;
+}
+.bavnar{
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.b p{
+	color: #68b39f;
+	font-weight: 700px;
+	font-size: 15px;
+}
+
+.b p1{
+	color: #2d6974;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.acab {
+	width:auto;
+}
+
+.cap {
+	justify-content:center;
+}
 }
 
 .b p{
@@ -162,7 +205,6 @@ body{
 	font-weight: bold;
 	font-size: 40px;
 }
-
 
 @media (max-width: 450px) {
   .a p1 {
@@ -193,4 +235,25 @@ body{
 	font-size: 20px;
 }
 
+}
+
+.aca {
+	padding-left: auto;
+	padding-right: auto;
+}
+
+.kct {
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.cap {
+ justify-content: justify;
+}
+
+.ajapax {
+	width: 100%;
+	height:100%;
+	border-radius: 20px;
 }

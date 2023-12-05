@@ -1,6 +1,6 @@
 @font-face {
    font-family: Cocogoose;
-   src: url(./fonts/Cocogoose.ttf);
+   src: url(../fonts/Cocogoose.ttf);
 }
 
 .souotario{
@@ -184,7 +184,7 @@ body{
 .b p{
 	color: #68b39f;
 	font-weight: 700px;
-	font-size: 10px;
+	font-size: 15px;
 }
 
 .b p1{

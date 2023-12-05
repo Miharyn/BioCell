@@ -54,7 +54,7 @@
 .cardplay {
 	width: 300px;
 	background-color: #68b39f;
-	height: 400px;
+	height: 350px;
 	border-radius: 23px;
 	margin-right: auto;
 	margin-left: auto;
@@ -161,4 +161,36 @@ body{
 	color: #2d6974;
 	font-weight: bold;
 	font-size: 40px;
+}
+
+
+@media (max-width: 450px) {
+  .a p1 {
+	color: #2d6974;
+	font-weight: bold;
+	font-size: 15px;
+}
+.a p {
+	color: #68b39f;
+	font-weight: 700px;
+	font-size: 30px;
+}
+.bavnar{
+	color: white;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.b p{
+	color: #68b39f;
+	font-weight: 700px;
+	font-size: 15px;
+}
+
+.b p1{
+	color: #2d6974;
+	font-weight: bold;
+	font-size: 20px;
+}
+
 }
